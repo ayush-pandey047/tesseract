@@ -13,7 +13,7 @@
 
 </div>
 
-## Table of Contents <img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/Parrot.png" height="12">
+## Table of Contents 📚 
 
 
 * [Tesseract OCR](#tesseract-ocr)
