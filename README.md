@@ -1,4 +1,4 @@
-# Tesseract OCR
+# Tesseract OCR 
 
 <div align="center">
 
@@ -13,7 +13,8 @@
 
 </div>
 
-## Table of Contents
+## Table of Contents <img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/Parrot.png" height="12">
+
 
 * [Tesseract OCR](#tesseract-ocr)
   * [About](#about)
