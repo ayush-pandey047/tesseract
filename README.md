@@ -17,15 +17,15 @@
 
 
 * [Tesseract OCR](#tesseract-ocr)
-  * [About](#about)
-  * [Brief history](#brief-history)
-  * [Installing Tesseract](#installing-tesseract)
-  * [Running Tesseract](#running-tesseract)
-  * [For developers](#for-developers)
-  * [Support](#support)
-  * [License](#license)
-  * [Dependencies](#dependencies)
-  * [Latest Version of README](#latest-version-of-readme)
+  * 📖[About](#about)
+  * 📜[Brief history](#brief-history)
+  * 💻[Installing Tesseract](#installing-tesseract)
+  * ▶️[Running Tesseract](#running-tesseract)
+  * 👩‍💻[For developers](#for-developers)
+  * 🤝[Support](#support)
+  *  📜[License](#license)
+  * 🔗[Dependencies](#dependencies)
+  * 📅[Latest Version of README](#latest-version-of-readme)
 
 ## About
 
